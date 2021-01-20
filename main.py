@@ -1,1 +1,2 @@
-print("Hello wgit iorld")
+print("Hello world")
+print("Hello world 2")
